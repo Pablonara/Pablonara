@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pablonara
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++, flask
+- 🌱 I’m currently learning c++, django
 - 📫 How to reach me: Pablonara on discord; noahzhoucanada@gmail.com
 
 <!---
