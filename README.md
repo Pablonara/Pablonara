@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pablonara
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++, django
-- 📫 How to reach me: Pablonara on discord; noahzhoucanada@gmail.com
+- 📫 How to reach me: Pablonara on discord; pablonara@pablonara.com, noahzhoucanada@gmail.com
 
 <!---
 Pablonara/Pablonara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
