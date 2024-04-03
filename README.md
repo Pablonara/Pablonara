@@ -1,7 +1,10 @@
 Pablonara
-\nWriter of messy code
-\nI’m currently learning c++, django
-\nReach with: Pablonara on discord; pablonara@pablonara.com, noahzhoucanada@gmail.com
+
+Writer of messy code
+
+I’m currently learning c++, django
+
+Reach with: Pablonara on discord; pablonara@pablonara.com, noahzhoucanada@gmail.com
 
 <!---
 Pablonara/Pablonara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
