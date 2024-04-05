@@ -4,7 +4,7 @@ Writer of messy code
 
 I’m currently learning c++, django
 
-Reach with: Pablonara on discord; pablonara@pablonara.com, noahzhoucanada@gmail.com
+Reach with: Pablonara on discord; pablonara@pablonara.com
 
 Thanks  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
