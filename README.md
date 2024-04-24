@@ -1,10 +1,10 @@
 Hi, I'm Pablonara
 
-Writer of messy code
+I write code and stuff
 
-I’m currently learning c++, django
+I’m currently learning c++, django, ts, rust
 
-Reach with: Pablonara on discord; pablonara@pablonara.com
+Reach me at: Pablonara on discord; pablonara@pablonara.com
 
 Thanks  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
