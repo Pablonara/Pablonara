@@ -1,10 +1,12 @@
 Hi, I'm Pablonara
 
-I write code and stuff
+I write code and host a tier 2 Arch Linux mirror!
 
 I’m currently learning c++, django, ts, rust
 
-Reach me at: Pablonara on discord; pablonara@pablonara.com
+I like open source projects
+
+Reach me at: Pablonara on discord; pablonara@pablonara.com, admin@furret.xyz
 
 Thanks  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
