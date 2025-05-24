@@ -6,7 +6,7 @@ I’m currently learning c++, django, ts, rust
 
 I like open source projects
 
-Reach me at: Pablonara on discord; pablonara@pablonara.com, admin@furret.xyz
+Reach me at: Pablonara on discord; pablonara@pablonara.com, ~~admin@furret.xyz~~ deprecated
 
 Thanks  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
