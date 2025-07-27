@@ -1,8 +1,8 @@
 Hi, I'm Pablonara
 
-I write code and host a tier 1 Arch Linux mirror!
+I write code and host a tier 1 Arch Linux mirror.
 
-I’m currently learning c++, django, ts, rust
+I’m currently learning c++, typescript
 
 I like open source projects
 
